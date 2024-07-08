@@ -27,7 +27,7 @@ const projects = [
         Description: 
           "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi cupiditate totam velit omnis.",
         stake: [{ name: "Html 5" }, { name: "Css 3" }, { name: "Javascript" }],
-        image: "/assets/work/thumb1.png",
+        image: "/Rahul-Portfolio/assets/work/thumb1.png",
         live: "",
         github: "",
     },
@@ -38,7 +38,7 @@ const projects = [
         Description: 
           "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi cupiditate totam velit omnis.",
         stake: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
-        image: "/assets/work/thumb2.png",
+        image: "/Rahul-Portfolio/assets/work/thumb2.png",
         live: "",
         github: "",
     },
@@ -49,7 +49,7 @@ const projects = [
         Description: 
           "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quasi cupiditate totam velit omnis.",
         stake: [{ name: "Next.js" }, { name: "Tailwind.css" }],
-        image: '/assets/work/thumb3.png',
+        image: '/Rahul-Portfolio/assets/work/thumb3.png',
         live: "",
         github: "",
     },
