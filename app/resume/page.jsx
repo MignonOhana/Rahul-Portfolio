@@ -15,12 +15,12 @@ import { SiTailwindcss, SiNextdotjs } from 'react-icons/si';
 // about data
 const about = {
     title: "About me",
-    decription: 
+    desription: 
     "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Printing and typesetting industry.",
 info: [
     {
      fieldName: "Name",
-     fieldValue: "RAhul Singh"
+     fieldValue: "Rahul Singh"
     },
     {
      fieldName: "Phone",

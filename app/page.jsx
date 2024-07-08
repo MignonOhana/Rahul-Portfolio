@@ -15,10 +15,10 @@ const Home = () => {
         <div className="text-center xl:text-left order-2 xl:order-none">
           <span className="text-xl">CoFounder Paperbook & AuraIndia</span>
           <h1 className="h1 mb-6">
-            Hello I'm <br /> <span className="text-accent">Rahul Singh</span>
+            Hello I&apos;m <br /> <span className="text-accent">Rahul Singh</span>
           </h1>
           <p className="max-w-[500px] mx-2 text-white/80">
-            We're building a free EdTech platform offering comprehensive course materials, sample papers, and competitive exam preparation tools, aligned with the Indian curriculum.  PaperBook empowers students to take control of their learning journey and achieve academic success. <br /> As co-founder of AuraIndia, we're building a news website that delivers reliable and informative content to a global audience. 
+            We&apos;re building a free EdTech platform offering comprehensive course materials, sample papers, and competitive exam preparation tools, aligned with the Indian curriculum.  PaperBook empowers students to take control of their learning journey and achieve academic success. <br /> As co-founder of AuraIndia, we&apos;re building a news website that delivers reliable and informative content to a global audience. 
           </p>
           {/* btn and socials */}
           <div className="flex flex-col xl:flex-row items-center gap-8">
