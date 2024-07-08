@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     basePath: "/Rahul-Portfolio",
-    assetPrefix: '/your-repo-name/',
+    assetPrefix: '/Rahul-Portfolio/',
     images: {
         unoptimized: true, // Disable Image Optimization for static export
     },
