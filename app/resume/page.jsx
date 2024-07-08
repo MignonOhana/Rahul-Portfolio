@@ -55,7 +55,7 @@ info: [
 
 // experience data
 const experience = {
-    icon: '/assets/resume/badge.svg',
+    icon: '/Rahul-Portfolio/assets/resume/badge.svg',
     title: 'My experience',
     description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Printing and typesetting industry.",
     items: [
@@ -104,7 +104,7 @@ const experience = {
 
 // education data
 const education = {
-    icon: '/assets/resume/cap.svg',
+    icon: '/Rahul-Portfolio/assets/resume/cap.svg',
     title: "My education",
     description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Printing and typesetting industry.",
     items: [
